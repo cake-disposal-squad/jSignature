@@ -1,0 +1,22 @@
+{
+  "name": "jSignature",
+  "version": "2.0.2",
+  "description": "jQuery plugin for handling digital signatures",
+  "main": "src/jSignature.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brinley/jSignature"
+  },
+  "keywords": [
+    "jSignature",
+    "signature",
+    "jQuery"
+  ],
+  "author": "Brinley Ang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brinley/jSignature/issues"
+  },
+  "homepage": "https://github.com/brinley/jSignature"
+}
