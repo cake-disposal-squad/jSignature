@@ -1,12 +1,12 @@
 {
-  "name": "jsignature",
+  "name": "@technical-team/jsignature",
   "version": "2.0.2",
   "description": "jQuery plugin for handling digital signatures",
   "main": "src/jSignature.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/brinley/jSignature"
+    "url": "https://github.com/technical-team/jSignature"
   },
   "keywords": [
     "jSignature",
